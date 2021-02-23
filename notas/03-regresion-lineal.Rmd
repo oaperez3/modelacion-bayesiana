@@ -155,6 +155,7 @@ summary(modelo)
 
 RSE <- sqrt(sum(residuals(modelo)**2)/198)
 RSE
+
 ```
 
 
